@@ -1,4 +1,4 @@
-### Hi there, I'm [NAMA-KAMU] 👋
+### Hi there, I'm Rino Nabiansyah 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVoZHFldjRzZm5xZGR2eXFseHFvN3RzNWk2cjExNnF6NWZkNW1maCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hDx804002x1/giphy.gif" width="300"/>
@@ -29,8 +29,8 @@ Saya seorang pengembang yang bersemangat dalam dunia JavaScript! Saat ini saya s
 ### 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[USERNAME-GITHUB-KAMU]&show_icons=true&locale=id&theme=radical" alt="Statistik GitHub [USERNAME-GITHUB-KAMU]" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME-GITHUB-KAMU]&layout=compact&locale=id&theme=radical" alt="Bahasa Teratas" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rino237gk&show_icons=true&locale=id&theme=radical" alt="Statistik GitHub [USERNAME-GITHUB-KAMU]" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rino237gk&layout=compact&locale=id&theme=radical" alt="Bahasa Teratas" />
 </p>
 
 ---
