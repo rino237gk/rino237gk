@@ -4,15 +4,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVoZHFldjRzZm5xZGR2eXFseHFvN3RzNWk2cjExNnF6NWZkNW1maCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hDx804002x1/giphy.gif" width="300"/>
 </p>
 
-Saya seorang pengembang yang bersemangat dalam dunia JavaScript! Saat ini saya sedang fokus membuat website interaktif dan mengembangkan bot WhatsApp yang fungsional.
+Saya seorang mahasiswa biasa! Saat ini saya sedang fokus berak.
 
 ---
 
 ### 🌱 Yang Sedang Saya Kerjakan
 
--   Membangun berbagai **proyek website simpel** menggunakan Vanilla JS, React, atau Vue.
--   Mengeksplorasi **library bot WhatsApp** seperti `whatsapp-web.js` atau `Baileys`.
--   Belajar lebih dalam tentang **Node.js** untuk backend.
+-   Kerjain PR Dari Guru
 
 ---
 
